@@ -4,7 +4,6 @@ import React, { Component } from 'react';
 // Components
 import { Consumer } from 'components/HOC/withProfile'
 
-
 //Insruments
 import Styles from './styles.m.css';
 
